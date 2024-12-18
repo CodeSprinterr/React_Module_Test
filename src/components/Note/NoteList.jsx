@@ -1,6 +1,6 @@
 import NoteItem from './NoteItem';
 import NoteInput from './NoteInput';
-import GroupIcon from '../Group/GroupIcon'; // Import the GroupIcon component
+import GroupIcon from '../Group/GroupIcon';
 import './Note.css';
 import { useEffect } from 'react';
 

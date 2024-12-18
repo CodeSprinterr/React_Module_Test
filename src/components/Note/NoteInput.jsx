@@ -26,7 +26,7 @@ const NoteInput = ({ onSubmit }) => {
           value={newNote}
           onChange={(e) => setNewNote(e.target.value)}
           onKeyPress={handleKeyPress}
-          placeholder="Enter your text here"
+          placeholder="Enter your text here........"
         />
         <button
           type="submit"
