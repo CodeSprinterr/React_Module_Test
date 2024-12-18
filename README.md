@@ -30,9 +30,6 @@ This project is designed as a React module test to demonstrate the following:
      - Clicking a group toggles to the main content.
      - A back button allows toggling back to the sidebar.
 
-4. **End-to-End Encryption Information**:
-   - A placeholder for end-to-end encryption visuals.
-
 ---
 
 ### Tech Stack
