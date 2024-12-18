@@ -43,4 +43,4 @@ This project is designed as a React module test to demonstrate the following:
 To run the project locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react_module_test.git
+   git clone https://github.com/CodeSprinterr/React_Module_Test.git
