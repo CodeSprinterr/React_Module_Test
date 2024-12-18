@@ -67,13 +67,18 @@ function App() {
             onBack={handleBackToSidebar} // Pass back function to NoteList
           />
         ) : (
-          <div className="no-selection">
-            <img
-              src={noSelectionImage}
-              alt="No selection illustration"
-              className="no-selection-image"
-            />
-          </div>
+          <>
+            <div className="no-selection">
+              <img
+                src={noSelectionImage}
+                alt="No selection illustration"
+                className="no-selection-image"
+              />
+            </div>
+            <div className='endToEnd'>
+              <img src={endToEndEncrytptionImage} alt="end to end" />
+            </div>
+          </>
         )}
       </div>
     </div>
